@@ -61,7 +61,25 @@ HR-Analytics-Attrition-Analysis/
 ## Dashboard Preview
 ![Dashboard](outputs/HR_Attrition_Dashboard_Screenshot.png.png)
 
+## How to Run
+
+```bash
+# Clone the repository
+git clone https://github.com/MokshitYadav/Hr-Analytics-Attrition-Analysis.git
+
+# Install dependencies
+pip install pandas numpy matplotlib seaborn scikit-learn
+
+# Run main analysis
+python hr_analysis.py
+
+# Run SQL analysis
+python hr_sql_analysis.py
+```
+
 ## Author
 **Mokshit Yadav**
 BBA Finance | NDIM, GGSIPU
+📧 mokshityadav21@gmail.com
 [LinkedIn](https://linkedin.com/in/mokshit-yadav)
+[GitHub](https://github.com/MokshitYadav)
